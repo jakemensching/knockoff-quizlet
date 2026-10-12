@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#2747c9"/>
+  <!-- backwards C: thick arc opening to the left -->
+  <path d="M21.4 21.4 A15 15 0 1 1 21.4 42.6" fill="none" stroke="#ffffff" stroke-width="9" stroke-linecap="round"/>
+  <!-- index-card red margin accent -->
+  <rect x="12" y="52" width="40" height="3" rx="1.5" fill="#e7a3a3"/>
+</svg>
